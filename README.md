@@ -1,4 +1,4 @@
-<img src='icon.jpg' width=150px>
+<img src='https://i.redd.it/mmy1dfb6wefa1.jpg'>
 
 # GPTron
 GPTron is a messenger of GPT models from OpenAI. It connects users to the language models using a API key provided by the users.
