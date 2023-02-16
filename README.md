@@ -8,7 +8,7 @@ It will ask you to validate your user key. You can use the trial key 11111. You 
 
 ## Usage
 ### Windows OS
-Download the gptron_v1.2.exe and simply double click the exe file.
+Download the gptron_v1.2.exe and double click the exe file. A reminder will pop up. Click "More info" and then click "Run Anyway". Just do it once and you are good to go.
 ### Mac OS
 Download the gptron_v1.2_MacOS.zip. Double click the file to unzip it. Rename the unzipped file as gptron.app, right click on it and click open. It will pop up a reminder. Close the window and right click on the file and click open again. The program will run properly. In future, just double click on the program.
 ### Linux (e.g. Ubuntu)
