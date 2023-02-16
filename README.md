@@ -1,7 +1,7 @@
 <img src='interface.png'>
 
 # GPTron
-GPTron is a messenger of GPT models from OpenAI. It connects users to the language models (GPT3) using a API key provided by the users.
+GPTron is a messenger of GPT models from OpenAI. It connects users to the language models (GPT3).
 
 ## Free trial key
 It will ask you to validate your user key. You can use the trial key 11111. You can also get user keys from gogptron.com later.
