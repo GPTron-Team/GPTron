@@ -4,7 +4,7 @@
 GPTron is a messenger of GPT models from OpenAI. It connects users to the language models (GPT3).
 
 ## Free trial key
-It will ask you to validate your user key. You can use the trial key 11111. You can also get user keys from gogptron.com later.
+It will ask you to validate your user key. You can use the trial key 11111. You can also get user keys from https://gogptron.com later.
 
 ## Usage
 ### Windows OS
@@ -15,4 +15,4 @@ Download the gptron_xx_MacOS.zip. Double click the file to unzip it. Rename the 
 Download the gptron_xx_Linux. Navigate to the same directory and run "chmod +x gptron_xx_Linux" to make it executable, and then run "./gptron_xx_Linux".
 
 ## Website
-We are building a website for GPTron at gogptron.com. Please keep watching on it.
+We are building a website for GPTron at https://gogptron.com. Please keep watching on it.
